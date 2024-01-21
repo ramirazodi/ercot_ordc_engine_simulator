@@ -1,5 +1,6 @@
-(https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/813e2c5d-2dc3-4db2-94a9-0f217a323487)
-![stacked_plot](https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/0f89e929-6c16-4065-97ba-9a4b68c8a57b)
+![scatter_plot](https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/79362f2a-6bc2-44fa-a49c-3df18969811a)
+![stacked_plot](https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/8eea2efe-2f2e-4554-a4bb-31e0d7b31565)
+
 
 # Short Description
 ERCOT Scarcity Pricing Engine & Simulator: A Python-based analytical toolkit for generating, simulating and visualizing the ERCOT Operating Reserve Demand Curve (ORDC), 
