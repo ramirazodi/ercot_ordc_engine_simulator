@@ -1,3 +1,5 @@
+(https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/813e2c5d-2dc3-4db2-94a9-0f217a323487)
+![stacked_plot](https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/0f89e929-6c16-4065-97ba-9a4b68c8a57b)
 
 # Short Description
 ERCOT Scarcity Pricing Engine & Simulator: A Python-based analytical toolkit for generating, simulating and visualizing the ERCOT Operating Reserve Demand Curve (ORDC), 
@@ -38,8 +40,7 @@ Key Functions: None. Used for scenario testing.
 period_scenarios.py
 Functionality: Generates ORDC adders for various scenarios, including different reserve scenarios and ORDC parameters like VOLL, MCL, LOLE values. You can add your own scenarios in this module which can include 
 custom values for all the key parameters such as system lambda, RTOLCAP, RTOFFCAP, LOLE distribution parameters such as sigma, mu, VOLL, MCL, pretty much anything. Resulting dataframe which includes the input
-dataframe in the 'input' subfolder as well as new columns showing all the key scarcity pricing components from the scenarios defined will be saved in the 'output' subfolder as 'ordc_scenarios.xlsx'![scatter_plot](https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/813e2c5d-2dc3-4db2-94a9-0f217a323487)
-![stacked_plot](https://github.com/ramirazodi/ercot_ordc_engine_simulator/assets/106940649/0f89e929-6c16-4065-97ba-9a4b68c8a57b)
+dataframe in the 'input' subfolder as well as new columns showing all the key scarcity pricing components from the scenarios defined will be saved in the 'output' subfolder as 'ordc_scenarios.xlsx'![scatter_plot]
 
 Key Functions: None. Used for batch processing of scenarios.
 
